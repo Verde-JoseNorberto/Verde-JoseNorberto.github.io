@@ -1,12 +1,12 @@
 
-body {background-color: rgba(146, 235, 205, 0.342);
+body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
     background-image: url('kuro.jpg')
     }
 h2 {
-    color: rgba(146, 235, 205, 0.342);
+    color: green;
     }
 p {
-    color: rgba(146, 235, 205, 0.342);
+    color: green);
     }
